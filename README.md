@@ -8,7 +8,7 @@ The project was not finished when it was handed to me, so we had to add more ele
 This was my first time working with any kind of JSON files, which was very intriguing but also very challenging. This is probably one of the modules in our curriculum that I learned the most from, because after I passed it I knew I was a better software engineer.
 
 In this application you can find examples of Design Patterns like:
-- Factories
+- Factory pattern
 - Adapter pattern
-- Observer Observable
+- Observable pattern
 - Refactoring Techniques
