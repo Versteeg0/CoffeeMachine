@@ -1,0 +1,19 @@
+{
+  "KoffieLijst": [
+    {
+      "Naam": "Irish Coffee",
+      "Prijs": 1.00,
+      "Ingredienten": [ "Whisky", "koffie", "suiker", "slagroom" ]
+    },
+    {
+      "Naam": "Spanish Coffee",
+      "Prijs": 2.00,
+      "Ingredienten": [ "Cointreau", "cognac", "koffie", "suiker", "slagroom" ]
+    },
+    {
+      "Naam": "Italian Coffee",
+      "Prijs": 3.00,
+      "Ingredienten": [ "Ameretto", "koffie", "suiker", "slagroom" ]
+    }
+  ]
+}
